@@ -33,7 +33,7 @@ or
 
 # Step 5 : 安装xcode 组件
 
-    xcode-select —install
+    xcode-select —-install
 
 # Step 6 : 安装第三方开发组件
 
