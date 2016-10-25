@@ -168,6 +168,9 @@ var Detail = React.createClass({
                         <View style={[styles.progressBar, {width: width * this.state.videoProgress}]}></View>
                     </View>
                 </View>
+
+
+
             </View>
         )
     }
